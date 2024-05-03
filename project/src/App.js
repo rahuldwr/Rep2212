@@ -6,6 +6,7 @@ function App() {
     <div className="App">
   
   <h1>This Heading is added by Rahul rai from local system</h1>
+  <h2>This is second headind to add somthing</h2>
 
     </div>
   );
